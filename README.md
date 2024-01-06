@@ -2,7 +2,7 @@
 - 👀 I’m interested in pentesting,computers,hacking
 - 🌱 I’m currently learning pentesting,c,python
 - 💞️ I’m looking to collaborate on anything based on HTML/CSS
-- 📫 How to reach me:-Discord:- Deadpoolstark3#1333
+- 📫 How to reach me:-Discord:- @deadpoolstark3
 
 
 <!---
